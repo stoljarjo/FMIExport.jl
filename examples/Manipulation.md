@@ -115,11 +115,11 @@ fmu = FMIBUILD_CONSTRUCTOR(dirname(sourceFMU))
 
 ```
 
-    ┌ Info: Saving example files at: /tmp/fmibuildjl_test_qWQBjc
+    ┌ Info: Saving example files at: /tmp/fmibuildjl_test_Ou1yBr
     └ @ Main In[3]:53
-    ┌ Info: fmi2Unzip(...): Successfully unzipped 153 files at `/tmp/fmijl_nPmXJd/SpringDamperPendulum1D`.
+    ┌ Info: fmi2Unzip(...): Successfully unzipped 153 files at `/tmp/fmijl_6RQsPo/SpringDamperPendulum1D`.
     └ @ FMIImport /home/runner/.julia/packages/FMIImport/1Yngw/src/FMI2_ext.jl:90
-    ┌ Info: fmi2Load(...): FMU resources location is `file:////tmp/fmijl_nPmXJd/SpringDamperPendulum1D/resources`
+    ┌ Info: fmi2Load(...): FMU resources location is `file:////tmp/fmijl_6RQsPo/SpringDamperPendulum1D/resources`
     └ @ FMIImport /home/runner/.julia/packages/FMIImport/1Yngw/src/FMI2_ext.jl:221
     ┌ Info: fmi2Load(...): FMU supports both CS and ME, using CS as default if nothing specified.
     └ @ FMIImport /home/runner/.julia/packages/FMIImport/1Yngw/src/FMI2_ext.jl:224
